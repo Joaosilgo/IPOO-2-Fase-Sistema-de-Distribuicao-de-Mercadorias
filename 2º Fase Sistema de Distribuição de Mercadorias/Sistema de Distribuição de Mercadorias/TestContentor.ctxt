@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TestContentor()
+comment0.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ TestContentor\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ \ Method\ called\ always\ before\ the\ test.\r\n\r\n\ \ \ \ \ \r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment3.params=
+comment3.target=void\ testGetIdContentor()
+comment3.text=\r\n\ Method\ to\ test\ if\ the\ container\ id\ is\ well\ returned.\r\n
+comment4.params=
+comment4.target=void\ testIsCanCarry()
+comment4.text=\r\n\ Method\ to\ test\ if\ a\ container\ can\ be\ carryed.\r\n
+comment5.params=
+comment5.target=void\ testReceberBem()
+comment5.text=\r\n\ Method\ to\ test\ if\ the\ product\ is\ recived\ or\ not.\r\n
+numComments=6

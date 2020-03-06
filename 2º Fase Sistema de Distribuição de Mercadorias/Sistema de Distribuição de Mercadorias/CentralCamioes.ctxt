@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.params=nome\ longitude\ latitude
+comment0.target=CentralCamioes(java.lang.String,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CentralCamioes\r\n
+comment1.params=s
+comment1.target=java.lang.String\ validateString(java.lang.String)
+comment10.params=
+comment10.target=java.util.ArrayList\ getLista()
+comment2.params=idCamiao\ designacao
+comment2.target=boolean\ registarCamiao(int,\ java.lang.String)
+comment3.params=designacao
+comment3.target=Camioes\ getCamiao(java.lang.String)
+comment4.params=idCamiao\ designacao
+comment4.target=boolean\ registarCamiaoMatricula(int,\ java.lang.String)
+comment5.params=idCamiao\ designacao
+comment5.target=boolean\ AnularCamiao(int,\ java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ camioesemCirculacao()
+comment7.params=km
+comment7.target=void\ camioesNoRaioDeX(double)
+comment8.params=
+comment8.target=void\ precisaInspespecao()
+comment9.params=
+comment9.target=void\ camioesNovos()
+numComments=11

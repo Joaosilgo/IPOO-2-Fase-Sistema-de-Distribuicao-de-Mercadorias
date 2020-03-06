@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=PlanoFornecimento()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ PlanoFornecimento\r\n
+comment1.params=
+comment1.target=void\ create()
+comment2.params=
+comment2.target=void\ run()
+comment3.params=
+comment3.target=void\ loadFromStation()
+comment4.params=
+comment4.target=void\ moveToStation()
+comment5.params=
+comment5.target=void\ loadTruck()
+comment6.params=
+comment6.target=void\ loadContainer()
+comment7.params=
+comment7.target=void\ createCentrals()
+numComments=8

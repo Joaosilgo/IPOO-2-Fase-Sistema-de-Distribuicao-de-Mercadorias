@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TesteCoordGeo()
+comment0.text=\r\n\ Construtor\ default\ para\ a\ classe\ de\ teste\ TesteCoordGeo\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Method\ called\ always\ before\ the\ test.\r\n\r\n\ Chamado\ antes\ de\ cada\ m\u00E9todo\ de\ caso\ de\ teste.\r\n
+comment2.params=
+comment2.target=void\ tearDown()
+comment2.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Chamado\ ap\u00F3s\ cada\ m\u00E9todo\ de\ teste\ de\ caso.\r\n
+comment3.params=
+comment3.target=void\ testGetLatitude()
+comment3.text=\r\n\ Method\ to\ test\ if\ the\ latitude\ is\ well\ returned.\ If\ the\ latitude\ is\ invalid\ it\ returns\ 0.\r\n
+comment4.params=
+comment4.target=void\ testGetLongitude()
+comment4.text=\r\n\ Method\ to\ test\ if\ the\ longitude\ is\ well\ returned.\ If\ the\ longitude\ is\ invalid\ it\ returns\ 0.\r\n
+comment5.params=
+comment5.target=void\ testCoordenadaPolarLatitude()
+comment5.text=\r\n\ Method\ to\ test\ the\ polar\ coordenad.\r\n
+comment6.params=
+comment6.target=void\ testCoordenadaPolarLongitude()
+comment6.text=\r\n\ Method\ to\ test\ the\ polar\ coordenad.\r\n
+numComments=7
